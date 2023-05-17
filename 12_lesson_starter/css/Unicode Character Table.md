@@ -1,0 +1,1 @@
+https://old.unicode-table.com/en/
